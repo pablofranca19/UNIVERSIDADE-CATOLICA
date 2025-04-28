@@ -1,2 +1,2 @@
-# UNIVERSIDADE-CATOLICA
+# PROJETOS-UCSAL
 Projetos que fiz da universidade
